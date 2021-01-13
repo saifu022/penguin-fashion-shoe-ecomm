@@ -1,0 +1,41 @@
+header{
+    background-color: #FFF9F4;
+}
+nav img{
+    width: 350px;
+}
+nav a{
+    font-size: 20px;
+    font-weight: 600;
+}
+.top-banner h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.price{
+    font-size: 32px;
+    font-weight: bold;
+    color: #FA804C;
+}
+
+.text-highlight{
+    color: #FA804C;
+}
+.card, .card img, .info-card{
+    border-radius: 1em;
+}
+p{
+    text-align: justify;
+}
+.section-heading{
+    color: #363958;
+    font-size: 45px;
+    font-weight: 700;
+}
+.card-title{
+    font-size: 28px;
+}
+.info-card img{
+    width: 120px;
+}
+
