@@ -13,13 +13,11 @@ nav a{
     font-size: 60px;
     font-weight: 700;
 }
-
 .price{
     font-size: 32px;
     font-weight: bold;
     color: #FA804C;
 }
-
 .text-highlight{
     color: #FA804C;
 }
@@ -40,10 +38,10 @@ p{
 .info-card img{
     width: 120px;
 }
-
-/* Wanted to bring the image up after breakpoint. 
-But could not solv it. Did not quite Understand why it didnot work! */
-
+.subdcribe-section{
+    background-color: #fa804c5e;
+    height: 350px;
+}
 
 @media (max-width:992px){
     .profile-img{
@@ -52,7 +50,6 @@ But could not solv it. Did not quite Understand why it didnot work! */
     .info-card-text, .section-heading{
         text-align: center;
     }
-    
 }
 @media (min-width:992px){
     .info-img{
