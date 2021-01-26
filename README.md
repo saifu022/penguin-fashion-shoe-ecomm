@@ -1,2 +1,2 @@
-# penguin-fashion-shoe-ecomm
-A ecommerce landing page made by HTML, CSS with Bootstrap5
+https://saifu022.github.io/penguin-fashion-shoe-ecomm/
+E-commerce landing page made by HTML, CSS with Bootstrap5
